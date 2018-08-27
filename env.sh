@@ -9,7 +9,7 @@ export GIT_REPO_NAME=StroomProduct
 export GIT_BRANCH_NAME=Master
 export GIT_USER=kevalshah90
 export GIT_EMAIL=kevalshah90@gmail.com
-export GITHUB_ACCESS_TOKEN=b06ec905a067bfe965e09c5f2cc2f8b4c8726073
+export GITHUB_ACCESS_TOKEN=#b06ec905a067bfe965e09c5f2cc2f8b4c8726073
 export GIT_USER_UPSTREAM=kevalshah90
 
 
