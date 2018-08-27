@@ -5,12 +5,12 @@ ssh-keygen -t rsa && ssh-keygen -y -f ~/.ssh/id_rsa > ~/.ssh/id_rsa.pub && eval 
 
 ###################### GIT PARAMETERS #####################################
 export GIT_PARENT_DIR=~
-export GIT_REPO_NAME=#your-repo
-export GIT_BRANCH_NAME=#your-branch
-export GIT_USER=#your-gituser
-export GIT_EMAIL=#your-email
-export GITHUB_ACCESS_TOKEN=#access-token from github developer settings
-export GIT_USER_UPSTREAM=#your-user
+export GIT_REPO_NAME=StroomProduct
+export GIT_BRANCH_NAME=Master
+export GIT_USER=kevalshah90
+export GIT_EMAIL=kevalshah90@gmail.com
+export GITHUB_ACCESS_TOKEN=0f68a548c883adcb196f55efad137665a36acf3c
+export GIT_USER_UPSTREAM=kevalshah90
 
 
 ############################################################################
